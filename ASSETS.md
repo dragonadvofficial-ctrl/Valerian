@@ -6,3 +6,5 @@
 - The Valerian wordmark is composed as website text with a small leaf mark because no separate transparent company logo file was provided.
 - Manrope and the Arabic font are hosted locally with their license notices.
 - Reference screenshot: Aeline landing-page design. It informs spacing and editorial hierarchy only; branding and copy are specific to Valerian.
+
+- Valmectin Super package photo supplied by the user; the original JPEG is retained and an optimized WebP is used in the catalogue.

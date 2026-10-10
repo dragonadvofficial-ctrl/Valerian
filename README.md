@@ -7,7 +7,7 @@ Serve the `dist` folder with any static HTTP server. The site has no runtime dep
 
 ## Features
 - English and Arabic, including right-to-left layout and a locally remembered language preference.
-- Five supplied products: NITROZAN, PhosphoVal 20%, OxyVal L.A, DIPHENEX and EroxVal 10%.
+- Six supplied products: NITROZAN, PhosphoVal 20%, OxyVal L.A, DIPHENEX, EroxVal 10% and Valmectin Super.
 - Product filters, accessible detail dialogs, original package images and product-specific enquiry preparation.
 - Separate information for livestock, horses and companion animals. Product use and eligible species are subject to each official label and veterinary guidance.
 - Responsive mobile navigation, reduced-motion support, skip link, labelled forms and focus styling.
