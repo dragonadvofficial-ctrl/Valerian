@@ -6,7 +6,7 @@ An independent, responsive animal health website for Valerian, presented as a US
 Serve the `dist` folder with any static HTTP server. The site has no runtime dependencies, build process or external CDN. Fonts, product images and photography are hosted locally.
 
 ## Features
-- English and Arabic, including right-to-left layout and a locally remembered language preference.
+- English-only interface and content. Button and link icons use consistent inline SVG artwork for predictable rendering on phones.
 - Six supplied products: NITROZAN, PhosphoVal 20%, OxyVal L.A, DIPHENEX, EroxVal 10% and Valmectin Super.
 - Product filters, accessible detail dialogs, original package images and product-specific enquiry preparation.
 - Separate information for livestock, horses and companion animals. Product use and eligible species are subject to each official label and veterinary guidance.
