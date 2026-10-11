@@ -21,3 +21,7 @@ Existing supplied product photos and existing illustrative animal-care images ar
 ## Regional connections and farm-animal refresh
 
 The confirmed EPGT Middle East partnership is displayed alongside clearly labelled partnership-enquiry regions. Those regions are not represented as appointed companies. The shared footer is maintained in scripts/regional-partners.cjs and styled in dist/regional-partners.css. Valerian focuses on farm and large animals, with cattle, sheep/goat, equine and camel care pages. New editorial images appear alongside the home-page story and educational articles. The full six-product catalogue is retained.
+
+## Fictional regional partner preview
+
+Four original, clearly labelled fictional company identities illustrate regional partner cards: Northleaf Veterinary (Europe & UK), Savanna Herd Health (Africa), Pacific Field Veterinary (Asia-Pacific) and Prairie Animal Science (Americas). Each card carries a DEMO / FICTIONAL badge; the section states that these are not real appointments or affiliations. The original SVG concept marks are in dist/assets/partners. EPGT retains its separate supplied Middle East partner designation.
