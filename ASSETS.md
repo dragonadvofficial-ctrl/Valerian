@@ -8,3 +8,7 @@
 - Reference screenshot: Aeline landing-page design. It informs spacing and editorial hierarchy only; branding and copy are specific to Valerian.
 
 - Valmectin Super package photo supplied by the user; the original JPEG is retained and an optimized WebP is used in the catalogue.
+
+## Farm-animal editorial refresh
+
+The companion-animal photograph has been removed. Three new illustrative editorial photographs (cattle-pasture, sheep-goats, camel-farm) were generated for this site and optimized to local WebP at 1440px and 760px widths. They illustrate care themes and do not document Valerian facilities or specific product indications. The existing horse-care and countryside photographs remain in use. No third-party company marks have been added as unverified partners.

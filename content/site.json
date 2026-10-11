@@ -128,7 +128,7 @@
       "intro": "Cattle, sheep and goats benefit from care that connects nutrition, housing, observation and veterinary support. The right programme reflects the species and the production system.",
       "image": {
         "rigel": "about-care.webp",
-        "valerian": "countryside.webp"
+        "valerian": "cattle-pasture.webp"
       },
       "sources": [
         "goats",
@@ -190,36 +190,6 @@
       ]
     },
     {
-      "slug": "care/companion",
-      "brands": [
-        "valerian"
-      ],
-      "category": "COMPANION ANIMALS",
-      "title": "Everyday wellbeing for companion animals.",
-      "intro": "Good companion-animal care starts with an individual preventive plan and careful observation. Product suitability is always a separate veterinary decision.",
-      "image": {
-        "valerian": "companion-care.webp"
-      },
-      "sources": [
-        "preventive",
-        "errors"
-      ],
-      "sections": [
-        {
-          "title": "Start with a preventive visit",
-          "text": "Age, lifestyle, environment and health history shape the preventive plan. Regular veterinary assessment creates an opportunity to review body condition, nutrition, oral health, vaccination and parasite risk. Changes in activity, appetite or behaviour should be discussed rather than left until the next routine visit."
-        },
-        {
-          "title": "Keep medicine instructions individual",
-          "text": "A product suitable for one species or one animal may be unsuitable for another. Never select a medicine solely because it appears in a general animal-health catalogue. Confirm the exact indication, species, formulation and instructions with the veterinarian."
-        },
-        {
-          "title": "Make home care easier to follow",
-          "text": "Write down the medicine name and administration plan, keep it in its original container and clarify anything that is unclear before leaving the practice. Report unexpected signs and tell the veterinarian about other products the animal receives."
-        }
-      ]
-    },
-    {
       "slug": "care/equine",
       "brands": [
         "valerian"
@@ -256,12 +226,11 @@
       "intro": "Consistent routines make animal-health plans more useful. Build around the environment, the animals and the people responsible for daily care.",
       "image": {
         "rigel": "poultry.webp",
-        "valerian": "countryside.webp"
+        "valerian": "cattle-pasture.webp"
       },
       "sources": [
-        "biosecurity",
-        "preventive",
-        "goats"
+        "goats",
+        "amr"
       ],
       "sections": [
         {
@@ -278,7 +247,75 @@
         },
         {
           "title": "Use the right care pathway",
-          "text": "Flock biosecurity, herd parasite management and companion-animal preventive visits address different needs. Explore the care guides for context, then use the exact locally authorised product documentation for any medicine decision."
+          "text": "Herd parasite management and equine preventive care address different needs. Explore the care guides for context, then use the exact locally authorised product documentation for any medicine decision."
+        }
+      ]
+    },
+    {
+      "slug": "care/small-ruminants",
+      "brands": [
+        "valerian"
+      ],
+      "category": "FLOCK & HERD",
+      "title": "Thoughtful care for sheep and goats.",
+      "intro": "Look at the flock, the individual animal and the environment together. Practical observation helps veterinary conversations become more useful.",
+      "image": {
+        "valerian": "sheep-goats.webp"
+      },
+      "sources": [
+        "goats",
+        "records"
+      ],
+      "sections": [
+        {
+          "title": "Notice the pattern",
+          "text": "Changes in appetite, behaviour, movement or condition are worth recording. Note whether a concern affects one animal, a particular group or the wider flock. Share the timing, recent introductions and relevant management changes with the attending veterinarian."
+        },
+        {
+          "title": "Connect pasture and parasite management",
+          "text": "Parasite management in sheep and goats combines veterinary assessment with sanitation, pasture management and attention to animal condition. Faecal testing can support investigation and treatment decisions. Repeated deworming without supporting management can encourage resistance."
+        },
+        {
+          "title": "Keep nutrition and routine in the conversation",
+          "text": "Describe the feeding routine, water supply, housing and grazing arrangements when discussing a health concern. These observations provide context; a clinical assessment is still needed to establish the cause of a problem and the appropriate response."
+        },
+        {
+          "title": "Confirm instructions for the exact species",
+          "text": "Sheep and goats must not be treated as interchangeable when selecting a medicine. Check the exact product’s authorised species, concentration, route and prescribing instructions. Keep treatment records and any applicable food-chain restrictions traceable."
+        }
+      ]
+    },
+    {
+      "slug": "care/camels",
+      "brands": [
+        "valerian"
+      ],
+      "category": "LARGE-ANIMAL CARE",
+      "title": "A clearer conversation about camel care.",
+      "intro": "Species-specific information matters. Use observations, a practical care history and the right veterinary documentation to prepare the next professional conversation.",
+      "image": {
+        "valerian": "camel-farm.webp"
+      },
+      "sources": [
+        "errors",
+        "records"
+      ],
+      "sections": [
+        {
+          "title": "Begin with useful observations",
+          "text": "Keep a concise record of the animal’s identity, routine, feed and water access, and any changes that prompted concern. Note when the change started and whether other animals are affected. Share these observations with the attending veterinarian."
+        },
+        {
+          "title": "Describe the care setting",
+          "text": "A useful enquiry explains the farm setting, handling arrangements, recent movements and previous medicines. Photographs of product packaging and clear written records can help identify what has been supplied or used."
+        },
+        {
+          "title": "Do not transfer another species’ instructions",
+          "text": "A medicine’s use in cattle, sheep or horses does not establish that it is authorised or suitable for camels. Product choice, route, amount and any restrictions require species-specific confirmation from the veterinarian and the relevant documentation."
+        },
+        {
+          "title": "Request the documentation you need",
+          "text": "When requesting professional product information, specify that the enquiry concerns camels and identify your market. Ask for the exact formulation, current authorised leaflet and relevant local status. A catalogue care category does not itself confirm prescribing suitability."
         }
       ]
     }

@@ -17,3 +17,7 @@ The contact page prepares a message locally. Visitors copy or download it and sh
 ## Images
 
 Existing supplied product photos and existing illustrative animal-care images are reused contextually. Lifestyle imagery is not presented as evidence of a manufacturer facility.
+
+## Regional connections and farm-animal refresh
+
+The confirmed EPGT Middle East partnership is displayed alongside clearly labelled partnership-enquiry regions. Those regions are not represented as appointed companies. The shared footer is maintained in scripts/regional-partners.cjs and styled in dist/regional-partners.css. Valerian focuses on farm and large animals, with cattle, sheep/goat, equine and camel care pages. New editorial images appear alongside the home-page story and educational articles. The full six-product catalogue is retained.
