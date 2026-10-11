@@ -1,3 +1,7 @@
+# October 11 content expansion
+
+See CONTENT.md for the new page architecture, editing workflow, sources and content boundaries. The existing home is retained and now links to separate company, catalogue, product, care, resource and enquiry pages. New editorial pages are in English; the Rigel home retains its existing language options. Valerian remains English-only. Enquiries prepare copyable/downloadable messages locally. The new pages use mobile-first responsive CSS and self-contained local assets. Source generation completed; browser verification of this expansion has not been performed.
+
 # Valerian — Care that goes further
 
 An independent, responsive animal health website for Valerian, presented as a US animal health company in the supplied brief. The visual identity uses muted olive, sage and warm ivory, with a calm, clinical editorial style inspired by the Aeline reference.

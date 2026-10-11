@@ -94,7 +94,7 @@ const translations={
     "explore": "Explore our products",
     "storyLink": "Get to know Valerian",
     "heroCaption": "For veterinary professionals.<br>With animal wellbeing at heart.",
-    "heroPhotoAlt": "A dog and cat with a veterinary professional in a bright clinic",
+    "heroPhotoAlt": "A veterinarian caring for a horse",
     "heroPhotoCaption": "Care begins with understanding.",
     "highlight1": "An American<br>animal health company",
     "highlight2": "Companion animals,<br>livestock & horses",

@@ -1,0 +1,384 @@
+{
+  "sources": {
+    "nutrition": [
+      "Poultry vitamin nutrition — Merck Veterinary Manual",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/vitamin-deficiencies-in-poultry"
+    ],
+    "minerals": [
+      "Poultry mineral nutrition — Merck Veterinary Manual",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/mineral-deficiencies-in-poultry"
+    ],
+    "biosecurity": [
+      "Poultry biosecurity — WOAH",
+      "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahc/current/en_chapitre_biosecu_poul_production.htm"
+    ],
+    "amr": [
+      "Antimicrobial resistance — WOAH",
+      "https://www.woah.org/en/what-we-do/global-initiatives/antimicrobial-resistance/"
+    ],
+    "records": [
+      "Food-animal treatment records — FDA",
+      "https://www.fda.gov/animal-veterinary/animal-health-literacy/adequate-records-help-prevent-illegal-drug-residues-and-ensure-food-safety"
+    ],
+    "errors": [
+      "Veterinary medication errors — FDA",
+      "https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors"
+    ],
+    "storage": [
+      "Medication storage — FDA",
+      "https://www.fda.gov/animal-veterinary/animal-health-literacy/properly-store-medications-keep-your-pet-safe"
+    ],
+    "preventive": [
+      "Preventive healthcare — AAHA",
+      "https://www.aaha.org/resources/preventive-healthcare-for-pets/"
+    ],
+    "goats": [
+      "Herd health & biosecurity — Penn State Extension",
+      "https://extension.psu.edu/dairy-goat-production"
+    ],
+    "equine": [
+      "Equine vaccination guidance — AAEP",
+      "https://aaep.org/guidelines-resources/vaccination-guidelines/"
+    ],
+    "equineParasites": [
+      "Equine parasite control — AAEP",
+      "https://aaep.org/guidelines-resources/internal-parasite-control-guidelines/"
+    ]
+  },
+  "articles": [
+    {
+      "slug": "guides/responsible-use",
+      "category": "PROFESSIONAL RESOURCE",
+      "title": "From prescription to a complete treatment record.",
+      "intro": "Good medicine use starts before the first administration. A clear plan connects the diagnosis, the exact product, the animal and the follow-up.",
+      "image": {
+        "rigel": "laboratory.webp",
+        "valerian": "veterinary-care.webp"
+      },
+      "sources": [
+        "errors",
+        "amr",
+        "records"
+      ],
+      "sections": [
+        {
+          "title": "Identify the exact product",
+          "text": "A familiar name or similar pack does not establish that two medicines have the same concentration, formulation or instructions. Check the product name, strength, presentation, expiry and locally authorised leaflet. Confirm that the prescribed species and administration route match the animal and product."
+        },
+        {
+          "title": "Make the dosage instruction complete",
+          "text": "A usable prescription specifies the amount, route, frequency and duration, alongside any preparation or administration instructions. The veterinarian needs the animal’s species, current weight, clinical findings and relevant history. For groups, identification and treatment records must remain traceable.",
+          "bullets": [
+            "Confirm the exact formulation and concentration.",
+            "Record the amount, route, frequency and treatment duration.",
+            "Clarify any missed-dose instructions with the prescribing veterinarian.",
+            "Confirm food-chain restrictions before treating food-producing animals."
+          ]
+        },
+        {
+          "title": "Give antimicrobials a clear clinical purpose",
+          "text": "Treatment decisions should follow veterinary assessment. Antimicrobials do not replace adequate housing, nutrition, hygiene or disease prevention. Follow the prescribed plan and arrange reassessment when animals do not improve, rather than switching or extending treatment independently."
+        },
+        {
+          "title": "Keep the food chain in view",
+          "text": "Records for food-producing animals should identify the animal or group, product, date, amount administered, route and person administering treatment. Record the applicable withdrawal interval and its completion date. Withdrawal periods depend on the exact product, species, use and local authorisation; they cannot be transferred from a similar medicine."
+        },
+        {
+          "title": "Review the outcome",
+          "text": "Record changes in appetite, behaviour and clinical signs, and report unexpected reactions promptly. Keep packaging, batch details and treatment notes available so the veterinarian can assess what happened and plan the next step."
+        }
+      ]
+    },
+    {
+      "slug": "guides/storage",
+      "category": "PRACTICAL GUIDE",
+      "title": "A better routine for medicine storage.",
+      "intro": "Product integrity depends on what happens between delivery and use. Build a simple, consistent routine for receipt, storage, stock rotation and disposal.",
+      "image": {
+        "rigel": "about-research.webp",
+        "valerian": "veterinary-care.webp"
+      },
+      "sources": [
+        "storage",
+        "errors"
+      ],
+      "sections": [
+        {
+          "title": "Receive and check",
+          "text": "Check that the supplied product and presentation match the order. Inspect the packaging and container for damage, confirm the batch and expiry details, and set aside any product whose integrity is uncertain. Keep the leaflet with the original labelled container."
+        },
+        {
+          "title": "Follow product-specific conditions",
+          "text": "Use the temperature, light-protection and storage instructions on the exact product leaflet. Do not assume that every injectable needs refrigeration or that a barn, car or equipment cupboard provides suitable conditions. Ask the supplier or veterinarian about any temperature excursion."
+        },
+        {
+          "title": "Rotate stock deliberately",
+          "text": "Arrange stock so that the earliest suitable expiry is used first. Track any in-use period specified after opening. Separate expired, damaged or unidentified medicines from usable stock so they cannot be selected accidentally."
+        },
+        {
+          "title": "Control access and disposal",
+          "text": "Keep medicines and used administration materials secure from children, visitors and animals. Maintain clear separation from feed and food. Obtain local advice for disposal of medicines, containers and sharps; do not improvise a disposal route."
+        }
+      ]
+    },
+    {
+      "slug": "care/livestock",
+      "category": "ANIMAL HEALTH",
+      "title": "Healthy herds begin with everyday attention.",
+      "intro": "Cattle, sheep and goats benefit from care that connects nutrition, housing, observation and veterinary support. The right programme reflects the species and the production system.",
+      "image": {
+        "rigel": "about-care.webp",
+        "valerian": "countryside.webp"
+      },
+      "sources": [
+        "goats",
+        "records",
+        "amr"
+      ],
+      "sections": [
+        {
+          "title": "Observe the group and the individual",
+          "text": "Routine observation helps identify changes in appetite, movement, body condition and behaviour. A problem affecting several animals may call for review of feed, water, housing or recent introductions as well as individual clinical examination. Record the pattern and share it with the herd veterinarian."
+        },
+        {
+          "title": "Keep prevention practical",
+          "text": "Maintain clean water, appropriate nutrition, suitable housing and a plan for introducing new animals. Discuss vaccination, parasite monitoring and disease risk with the attending veterinarian. A useful plan is one that farm staff can follow consistently and review as the herd changes."
+        },
+        {
+          "title": "Treat parasite control as a management programme",
+          "text": "For sheep and goats, parasite management combines veterinary assessment with sanitation, pasture management and attention to animal condition. Faecal testing can support investigation and treatment decisions. Repeated deworming without supporting management can encourage resistance; a calendar alone is not a complete programme."
+        },
+        {
+          "title": "Make treatment traceable",
+          "text": "Individual or group records help everyone understand what was given, why, when and by whom. For food-producing animals, include the applicable withdrawal instructions and release date. Product suitability must be checked for the specific species; an animal pictured on another pack is not a substitute for the approved leaflet."
+        }
+      ]
+    },
+    {
+      "slug": "care/poultry",
+      "brands": [
+        "rigel"
+      ],
+      "category": "FLOCK HEALTH",
+      "title": "A stronger foundation for poultry health.",
+      "intro": "Product choices work best within a complete flock programme: biosecurity, nutrition, housing, observation and veterinary assessment all have a role.",
+      "image": {
+        "rigel": "poultry.webp"
+      },
+      "sources": [
+        "biosecurity",
+        "nutrition",
+        "minerals"
+      ],
+      "sections": [
+        {
+          "title": "Protect the flock boundary",
+          "text": "Manage the movement of people, equipment and animals into poultry areas. Use clear hygiene procedures, maintain cleaning and disinfection routines, and take steps to reduce contact with wild birds and pests. Biosecurity is a repeated daily practice rather than a single intervention."
+        },
+        {
+          "title": "Notice meaningful changes early",
+          "text": "Changes in water or feed intake, activity, mortality or production can help identify a developing problem. Keep comparable records and discuss unusual patterns with the flock veterinarian. Reliable observations support diagnosis and avoid treating every performance change as the same disease."
+        },
+        {
+          "title": "Review the complete ration",
+          "text": "Vitamin A supports epithelial tissues. Vitamin D₃ contributes to calcium and phosphorus metabolism, relevant to skeletal development and eggshell quality. Vitamin E and selenium have complementary roles in antioxidant protection. Review the complete diet, feed preparation and storage before adding supplements; both deficient and excessive intake matter."
+        },
+        {
+          "title": "Connect products to a veterinary plan",
+          "text": "Nutritional support and anti-infective treatment have different purposes. Confirm the exact product and formulation, its authorised species and any route or withdrawal requirements. Use product documentation together with veterinary advice, and record the response of the flock."
+        }
+      ]
+    },
+    {
+      "slug": "care/companion",
+      "brands": [
+        "valerian"
+      ],
+      "category": "COMPANION ANIMALS",
+      "title": "Everyday wellbeing for companion animals.",
+      "intro": "Good companion-animal care starts with an individual preventive plan and careful observation. Product suitability is always a separate veterinary decision.",
+      "image": {
+        "valerian": "companion-care.webp"
+      },
+      "sources": [
+        "preventive",
+        "errors"
+      ],
+      "sections": [
+        {
+          "title": "Start with a preventive visit",
+          "text": "Age, lifestyle, environment and health history shape the preventive plan. Regular veterinary assessment creates an opportunity to review body condition, nutrition, oral health, vaccination and parasite risk. Changes in activity, appetite or behaviour should be discussed rather than left until the next routine visit."
+        },
+        {
+          "title": "Keep medicine instructions individual",
+          "text": "A product suitable for one species or one animal may be unsuitable for another. Never select a medicine solely because it appears in a general animal-health catalogue. Confirm the exact indication, species, formulation and instructions with the veterinarian."
+        },
+        {
+          "title": "Make home care easier to follow",
+          "text": "Write down the medicine name and administration plan, keep it in its original container and clarify anything that is unclear before leaving the practice. Report unexpected signs and tell the veterinarian about other products the animal receives."
+        }
+      ]
+    },
+    {
+      "slug": "care/equine",
+      "brands": [
+        "valerian"
+      ],
+      "category": "EQUINE CARE",
+      "title": "A preventive plan that fits the horse.",
+      "intro": "Management, travel, age and local disease risk help shape equine care. A thoughtful programme evolves with the horse rather than relying on a single universal schedule.",
+      "image": {
+        "valerian": "veterinary-care.webp"
+      },
+      "sources": [
+        "equine",
+        "equineParasites"
+      ],
+      "sections": [
+        {
+          "title": "Build prevention around exposure",
+          "text": "Discuss the horse’s location, travel, contact with other horses and health history with the attending veterinarian. Vaccination choices depend on risk and the relevant product label. Professional guidance from another country provides background, not a universal schedule for local use."
+        },
+        {
+          "title": "Monitor parasite control",
+          "text": "Faecal egg counts help characterise shedding, and faecal egg count reduction testing can help assess dewormer effectiveness. These tools support a broader veterinary programme; a count alone does not diagnose parasitic disease or establish the correct treatment."
+        },
+        {
+          "title": "Keep continuity between yard and clinic",
+          "text": "A shared record of preventive care, medicines, changes in condition and follow-up appointments helps avoid gaps when horses move or receive care from more than one person. Confirm product authorisation and administration instructions for horses before use."
+        }
+      ]
+    },
+    {
+      "slug": "guides/prevention",
+      "category": "PREVENTIVE CARE",
+      "title": "Prevention is a programme, not a single product.",
+      "intro": "Consistent routines make animal-health plans more useful. Build around the environment, the animals and the people responsible for daily care.",
+      "image": {
+        "rigel": "poultry.webp",
+        "valerian": "countryside.webp"
+      },
+      "sources": [
+        "biosecurity",
+        "preventive",
+        "goats"
+      ],
+      "sections": [
+        {
+          "title": "Map the main risks",
+          "text": "Review how animals enter the premises, where they mix, how feed and water are supplied and what changes seasonally. Identify who notices early signs and who contacts the veterinarian. Risk assessment is most useful when it produces actions that staff can actually carry out."
+        },
+        {
+          "title": "Agree the daily routine",
+          "text": "Define practical expectations for cleaning, observation, feed and water checks, and recording concerns. Use a consistent handover between shifts or carers. A short reliable record is more valuable than an elaborate form that nobody completes."
+        },
+        {
+          "title": "Plan veterinary review",
+          "text": "A preventive programme should be revisited when animals, facilities, management or disease risks change. Vaccination, parasite monitoring and nutritional decisions should reflect the relevant species and local conditions. Monitor outcomes and revise the plan with the attending veterinarian."
+        },
+        {
+          "title": "Use the right care pathway",
+          "text": "Flock biosecurity, herd parasite management and companion-animal preventive visits address different needs. Explore the care guides for context, then use the exact locally authorised product documentation for any medicine decision."
+        }
+      ]
+    }
+  ],
+  "productMeta": {
+    "sel-e-d3": {
+      "composition": "Vitamin E, vitamin D₃ and selenium",
+      "presentation": "Veterinary nutritional presentation",
+      "species": "Poultry, calves, sheep, goats and pigs, as listed on the supplied packaging.",
+      "purpose": "Nutritional support",
+      "context": "Vitamin E and selenium contribute to complementary antioxidant functions, while vitamin D₃ is involved in calcium and phosphorus metabolism. Nutritional decisions should account for the complete diet, species and flock or herd circumstances.",
+      "sources": [
+        "nutrition",
+        "minerals"
+      ]
+    },
+    "v-plex-a-d3-e": {
+      "composition": "Vitamins A, D₃ and E",
+      "presentation": "Veterinary nutritional presentation",
+      "species": "Poultry, calves, sheep, goats and pigs, as listed on the supplied packaging.",
+      "purpose": "Vitamin support",
+      "context": "Vitamin A is associated with epithelial tissue health; vitamin D₃ contributes to calcium and phosphorus metabolism; vitamin E supports antioxidant functions. Review the ration and existing supplementation before adding a vitamin product.",
+      "sources": [
+        "nutrition"
+      ]
+    },
+    "apra-til": {
+      "composition": "Tilmicosin phosphate and apramycin sulfate",
+      "presentation": "Veterinary anti-infective presentation",
+      "species": "Poultry, calves, sheep, goats and pigs, as listed on the supplied packaging.",
+      "purpose": "Veterinarian-led anti-infective care",
+      "context": "The supplied label identifies a combination of two antimicrobial ingredients. The exact formulation, authorised indication and species must be confirmed before prescribing. Clinical assessment and responsible antimicrobial use remain essential.",
+      "sources": [
+        "amr",
+        "records"
+      ]
+    },
+    "nitrozan": {
+      "composition": "Confirm the complete active composition from the current product leaflet.",
+      "presentation": "100 ml vial · solution for injection",
+      "species": "Confirm authorised target species using the current locally approved leaflet.",
+      "purpose": "Internal parasite care",
+      "context": "The supplied packaging describes treatment and control of internal parasites. A parasite-control programme should also consider veterinary assessment, management and monitoring; selecting a product by name alone does not establish its suitability.",
+      "sources": [
+        "goats"
+      ]
+    },
+    "phosphoval": {
+      "composition": "Labelled as phosphotherapy; full active composition requires the product leaflet.",
+      "presentation": "100 ml vial · solution for injection",
+      "species": "Confirm authorised target species using the current locally approved leaflet.",
+      "purpose": "Veterinary supportive care",
+      "context": "The label identifies a 20% phosphotherapy presentation. The product’s clinical role and suitability should be assessed in the context of the animal’s condition and the complete formulation. The percentage in the name does not by itself provide a complete prescription.",
+      "sources": [
+        "errors"
+      ]
+    },
+    "oxyval": {
+      "composition": "Oxytetracycline L.A, as stated on the supplied label.",
+      "presentation": "100 ml vial · solution for injection",
+      "species": "Confirm authorised target species using the current locally approved leaflet.",
+      "purpose": "Veterinarian-led anti-infective care",
+      "context": "The supplied label identifies oxytetracycline in a long-acting presentation. Formulations and instructions vary, so a general oxytetracycline dose must not be substituted for this product’s approved instructions. Treatment should follow veterinary assessment.",
+      "sources": [
+        "amr",
+        "records"
+      ]
+    },
+    "diphenex": {
+      "composition": "Confirm the complete active composition from the current product leaflet.",
+      "presentation": "100 ml vial · solution for injection",
+      "species": "Confirm authorised target species using the current locally approved leaflet.",
+      "purpose": "Veterinary allergy symptom care",
+      "context": "The photographed packaging describes an injectable presentation for relief of allergy symptoms. Clinical signs require assessment to determine their cause and the appropriate response. The product name alone does not confirm an active ingredient or a dosage.",
+      "sources": [
+        "errors"
+      ]
+    },
+    "eroxval": {
+      "composition": "Confirm the active ingredient and concentration from the current product leaflet.",
+      "presentation": "100 ml vial · solution for injection",
+      "species": "Confirm authorised target species using the current locally approved leaflet.",
+      "purpose": "Veterinarian-led anti-infective care",
+      "context": "The supplied packaging describes a broad-spectrum injectable antibiotic presentation for susceptible bacterial infections. Product selection requires a clinical reason and confirmation of the exact formulation and local authorisation. Keep administration and withdrawal records for food-producing animals.",
+      "sources": [
+        "amr",
+        "records"
+      ]
+    },
+    "valmectin": {
+      "composition": "Ivermectin is named on the supplied packaging; confirm full composition and concentration from the leaflet.",
+      "presentation": "100 ml vial · solution for injection",
+      "species": "Confirm authorised target species using the current locally approved leaflet.",
+      "purpose": "Internal and external parasite care",
+      "context": "The photographed packaging describes treatment and control of mixed internal and external parasitic infections. Similar product names can represent different formulations. Confirm the complete composition, species, route and locally authorised instructions before use.",
+      "sources": [
+        "goats",
+        "records"
+      ]
+    }
+  },
+  "brand": "valerian"
+}

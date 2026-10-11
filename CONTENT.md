@@ -1,0 +1,19 @@
+# Valerian content architecture
+
+The existing home page is retained. The expanded site adds separate company, approach, product catalogue, individual product, care, knowledge, medicine-use, prevention, storage, contact, privacy and terms pages. Rigel also has a regional partnership page. Valerian remains English-only, with EPGT identified in the footer.
+
+## Editing
+
+Edit content/site.json, then run node scripts/build-pages.cjs. Product names, photographs and existing summaries are read from the retained catalogue. Shared page styles and browser-local interactions live in dist/content-pages.css and dist/content-pages.js.
+
+## Content provenance
+
+Product facts are derived from the supplied packaging. General education cites WOAH, FDA, Merck Veterinary Manual, AAHA, AAEP and Penn State Extension where relevant. Reference organisations do not endorse the displayed brands. Educational guidance does not establish product approval or dosage. No numeric doses, founding years, product launch dates or certifications have been invented. Request the exact locally authorised leaflet and dated corporate documentation for those decisions.
+
+## Enquiries
+
+The contact page prepares a message locally. Visitors copy or download it and share it with their existing company contact. No inbox endpoint was supplied; the form does not claim delivery.
+
+## Images
+
+Existing supplied product photos and existing illustrative animal-care images are reused contextually. Lifestyle imagery is not presented as evidence of a manufacturer facility.
