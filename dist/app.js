@@ -7,10 +7,10 @@ const products=[
     "image": "nitrozan",
     "category": "parasite",
     "en": {
-      "tag": "Parasite care",
-      "short": "Veterinary injectable for internal parasite care.",
-      "summary": "NITROZAN is presented as a veterinary solution for injection for the treatment and control of internal parasites. The supplied packaging identifies a 100 ml vial for animal treatment only.",
-      "focus": "Internal parasite management, as described on the supplied packaging."
+      "tag": "Internal parasite care",
+      "short": "Nitroxynil 250 mg/ml in a veterinary injectable presentation.",
+      "summary": "NITROZAN is a veterinary injectable within the Valerian parasite-care range. The available product information identifies nitroxynil at 250 mg/ml and a 100 ml vial, with a focus on internal parasites and liver-fluke care in farm animals.",
+      "focus": "The product’s parasite-care positioning is most useful when considered alongside the animal’s species, grazing history and a veterinary parasite assessment. Internal parasites are not interchangeable, and identifying the relevant parasite is part of deciding which formulation belongs in a care programme."
     }
   },
   {
@@ -19,10 +19,10 @@ const products=[
     "image": "phosphoval",
     "category": "support",
     "en": {
-      "tag": "Supportive care",
-      "short": "A veterinary phosphotherapy injectable presentation.",
-      "summary": "PhosphoVal 20% is a veterinary injectable presentation labelled as phosphotherapy. The supplied pack identifies a 100 ml vial. Full composition and suitability for individual animals should be confirmed from the official product leaflet.",
-      "focus": "Phosphotherapy within veterinarian-led animal care."
+      "tag": "Phosphorus-based supportive care",
+      "short": "A 20% toldimphos sodium phosphotherapy injectable.",
+      "summary": "PhosphoVal 20% is presented as a veterinary phosphotherapy solution for injection. The product information identifies toldimphos sodium trihydrate at 200 mg/ml in a 100 ml vial.",
+      "focus": "This presentation broadens the supportive-care side of the portfolio. The supplied description discusses metabolic and nutritional support around digestion, rumen function and productive periods. Those contexts require an assessment of the whole animal and feeding programme rather than selection by the percentage in the product name."
     }
   },
   {
@@ -31,10 +31,10 @@ const products=[
     "image": "oxyval",
     "category": "anti",
     "en": {
-      "tag": "Anti-infective care",
-      "short": "Oxytetracycline L.A in a veterinary injectable format.",
-      "summary": "OxyVal L.A is labelled as an oxytetracycline L.A solution for injection. Presented in a 100 ml vial for animal treatment only, it belongs to the veterinary anti-infective portfolio. Suitability and use must be determined by a veterinarian.",
-      "focus": "Oxytetracycline L.A · veterinary anti-infective care."
+      "tag": "Long-acting antibacterial care",
+      "short": "Oxytetracycline 200 mg/ml in a long-acting injectable presentation.",
+      "summary": "OxyVal L.A is a long-acting oxytetracycline veterinary presentation. The supplied product information names oxytetracycline, as dihydrate, at 200 mg/ml and identifies a 100 ml injectable vial.",
+      "focus": "The product information discusses bacterial-care contexts involving the respiratory system and other farm-animal infections. The relevance of an antibacterial formulation depends on diagnosis, susceptibility where appropriate, the animal’s condition and the locally authorised product instructions."
     }
   },
   {
@@ -43,10 +43,10 @@ const products=[
     "image": "diphenex",
     "category": "support",
     "en": {
-      "tag": "Supportive care",
-      "short": "An injectable presentation for veterinary allergy care.",
-      "summary": "DIPHENEX is a veterinary solution for injection whose supplied packaging describes relief of allergy symptoms. The photographed presentation is a 100 ml vial for animal treatment only. A veterinarian should confirm the appropriate product and use.",
-      "focus": "Veterinary allergy symptom care, as described on the packaging."
+      "tag": "Allergy-symptom supportive care",
+      "short": "Diphenhydramine hydrochloride 20 mg/ml in a veterinary injectable.",
+      "summary": "DIPHENEX is a veterinary solution for injection with an allergy-symptom care focus. The product information identifies diphenhydramine hydrochloride at 20 mg/ml and the packaging shows a 100 ml presentation.",
+      "focus": "The product belongs in a veterinary discussion about the cause and severity of suspected allergic signs. An allergy-focused product description is not a diagnosis, and symptom relief should be considered alongside the underlying trigger and the animal’s overall condition."
     }
   },
   {
@@ -55,10 +55,10 @@ const products=[
     "image": "eroxval",
     "category": "anti",
     "en": {
-      "tag": "Anti-infective care",
-      "short": "A broad-spectrum veterinary antibacterial injectable.",
-      "summary": "EroxVal 10% is presented on the supplied packaging as a broad-spectrum injectable antibiotic for susceptible bacterial infections. The photographed presentation is a 100 ml vial for animal treatment only. A veterinarian should determine suitability using the official product information.",
-      "focus": "Veterinary antibacterial care for susceptible infections, as labelled."
+      "tag": "Antibacterial care",
+      "short": "Enrofloxacin 100 mg/ml in a veterinary injectable presentation.",
+      "summary": "EroxVal 10% is an injectable antibacterial presentation containing enrofloxacin at 100 mg/ml. The packaging identifies a 100 ml vial for animal treatment only.",
+      "focus": "The supplied description discusses susceptible bacterial infections in farm-animal care, including respiratory and udder-health contexts. These are clinical categories for professional assessment, not a statement that the product is suitable for every infection, species or production stage."
     }
   },
   {
@@ -67,10 +67,34 @@ const products=[
     "image": "valmectin-super",
     "category": "parasite",
     "en": {
-      "tag": "Parasite care",
-      "short": "A veterinary injectable for internal and external parasite care.",
-      "summary": "Valmectin Super is a veterinary solution for injection. The supplied packaging describes treatment and control of mixed internal and external parasitic infections, and shows a 100 ml vial for animal treatment only. A veterinarian should confirm suitability and use from the official product information.",
-      "focus": "Internal and external parasite management, as described on the supplied packaging."
+      "tag": "Internal & external parasite care",
+      "short": "Ivermectin 10 mg/ml with clorsulon 100 mg/ml.",
+      "summary": "Valmectin Super combines ivermectin and clorsulon in a veterinary injectable presentation. The available product information states 10 mg/ml ivermectin and 100 mg/ml clorsulon in a 100 ml vial.",
+      "focus": "The product is positioned around mixed internal and external parasite-care needs in farm animals. A useful parasite-control discussion considers which parasites are relevant, the animal’s exposure and the timing of assessment, rather than assuming that a broad product description covers every infestation."
+    }
+  },
+  {
+    "id": "orvibion",
+    "name": "Orvibion",
+    "image": "orvibion",
+    "category": "support",
+    "en": {
+      "tag": "Liver & metabolic supportive care",
+      "short": "A betaine and amino-acid injectable with a liver-support focus.",
+      "summary": "Orvibion adds a liver-focused supportive-care presentation to the Valerian range. The visible formulation identifies betaine alongside arginine, citrulline and ornithine in a 100 ml injectable vial.",
+      "focus": "Its product positioning connects liver support with metabolic-care discussions in farm animals. The supplied description mentions demanding metabolic periods, including ketosis-related care in cattle and pregnancy-related metabolic problems in sheep and goats. Those conditions require veterinary assessment; the product is not a replacement for diagnosis or a complete treatment plan."
+    }
+  },
+  {
+    "id": "diclorix",
+    "name": "Diclorix",
+    "image": "diclorix",
+    "category": "support",
+    "en": {
+      "tag": "Inflammation & pain-care support",
+      "short": "A diclofenac-based veterinary anti-inflammatory injectable.",
+      "summary": "Diclorix extends the supportive-care range with a diclofenac-based solution for injection. The supplied information states 5.39 g diclofenac sodium per 100 ml, equivalent to 5 g diclofenac base, in a 100 ml vial.",
+      "focus": "The product presentation focuses on veterinary inflammation and pain-care contexts. The underlying cause of pain, the animal’s species and the authorised conditions of use must guide any treatment discussion. A pain-care product does not replace investigation of the clinical problem."
     }
   }
 ];

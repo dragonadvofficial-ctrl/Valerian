@@ -354,67 +354,68 @@
       ]
     },
     "nitrozan": {
-      "composition": "Confirm the complete active composition from the current product leaflet.",
+      "composition": "Nitroxynil: 250 mg per ml (25 g per 100 ml)",
       "presentation": "100 ml vial · solution for injection",
-      "species": "Confirm authorised target species using the current locally approved leaflet.",
+      "species": "The available information focuses on cattle and other farm animals. Confirm the exact authorised species locally.",
       "purpose": "Internal parasite care",
-      "context": "The supplied packaging describes treatment and control of internal parasites. A parasite-control programme should also consider veterinary assessment, management and monitoring; selecting a product by name alone does not establish its suitability.",
-      "sources": [
-        "goats"
-      ]
+      "context": "The product’s parasite-care positioning is most useful when considered alongside the animal’s species, grazing history and a veterinary parasite assessment. Internal parasites are not interchangeable, and identifying the relevant parasite is part of deciding which formulation belongs in a care programme.",
+      "sources": []
     },
     "phosphoval": {
-      "composition": "Labelled as phosphotherapy; full active composition requires the product leaflet.",
+      "composition": "Toldimphos sodium trihydrate: 200 mg per ml",
       "presentation": "100 ml vial · solution for injection",
-      "species": "Confirm authorised target species using the current locally approved leaflet.",
-      "purpose": "Veterinary supportive care",
-      "context": "The label identifies a 20% phosphotherapy presentation. The product’s clinical role and suitability should be assessed in the context of the animal’s condition and the complete formulation. The percentage in the name does not by itself provide a complete prescription.",
-      "sources": [
-        "errors"
-      ]
+      "species": "Farm-animal supportive-care presentation; confirm the intended species in the authorised product directions.",
+      "purpose": "Phosphorus-based supportive care",
+      "context": "This presentation broadens the supportive-care side of the portfolio. The supplied description discusses metabolic and nutritional support around digestion, rumen function and productive periods. Those contexts require an assessment of the whole animal and feeding programme rather than selection by the percentage in the product name.",
+      "sources": []
     },
     "oxyval": {
-      "composition": "Oxytetracycline L.A, as stated on the supplied label.",
-      "presentation": "100 ml vial · solution for injection",
-      "species": "Confirm authorised target species using the current locally approved leaflet.",
-      "purpose": "Veterinarian-led anti-infective care",
-      "context": "The supplied label identifies oxytetracycline in a long-acting presentation. Formulations and instructions vary, so a general oxytetracycline dose must not be substituted for this product’s approved instructions. Treatment should follow veterinary assessment.",
-      "sources": [
-        "amr",
-        "records"
-      ]
+      "composition": "Oxytetracycline, as dihydrate: 200 mg per ml",
+      "presentation": "100 ml vial · long-acting solution for injection",
+      "species": "The presentation concerns farm-animal antibacterial care; confirm authorised species and restrictions locally.",
+      "purpose": "Long-acting antibacterial care",
+      "context": "The product information discusses bacterial-care contexts involving the respiratory system and other farm-animal infections. The relevance of an antibacterial formulation depends on diagnosis, susceptibility where appropriate, the animal’s condition and the locally authorised product instructions.",
+      "sources": []
     },
     "diphenex": {
-      "composition": "Confirm the complete active composition from the current product leaflet.",
+      "composition": "Diphenhydramine hydrochloride: 20 mg per ml",
       "presentation": "100 ml vial · solution for injection",
-      "species": "Confirm authorised target species using the current locally approved leaflet.",
-      "purpose": "Veterinary allergy symptom care",
-      "context": "The photographed packaging describes an injectable presentation for relief of allergy symptoms. Clinical signs require assessment to determine their cause and the appropriate response. The product name alone does not confirm an active ingredient or a dosage.",
-      "sources": [
-        "errors"
-      ]
+      "species": "Confirm the intended farm-animal species and authorised use from the exact product directions.",
+      "purpose": "Allergy-symptom supportive care",
+      "context": "The product belongs in a veterinary discussion about the cause and severity of suspected allergic signs. An allergy-focused product description is not a diagnosis, and symptom relief should be considered alongside the underlying trigger and the animal’s overall condition.",
+      "sources": []
     },
     "eroxval": {
-      "composition": "Confirm the active ingredient and concentration from the current product leaflet.",
+      "composition": "Enrofloxacin: 100 mg per ml",
       "presentation": "100 ml vial · solution for injection",
-      "species": "Confirm authorised target species using the current locally approved leaflet.",
-      "purpose": "Veterinarian-led anti-infective care",
-      "context": "The supplied packaging describes a broad-spectrum injectable antibiotic presentation for susceptible bacterial infections. Product selection requires a clinical reason and confirmation of the exact formulation and local authorisation. Keep administration and withdrawal records for food-producing animals.",
-      "sources": [
-        "amr",
-        "records"
-      ]
+      "species": "Confirm authorised farm-animal species, production-stage restrictions and local requirements.",
+      "purpose": "Antibacterial care",
+      "context": "The supplied description discusses susceptible bacterial infections in farm-animal care, including respiratory and udder-health contexts. These are clinical categories for professional assessment, not a statement that the product is suitable for every infection, species or production stage.",
+      "sources": []
     },
     "valmectin": {
-      "composition": "Ivermectin is named on the supplied packaging; confirm full composition and concentration from the leaflet.",
+      "composition": "Ivermectin: 10 mg per ml; Clorsulon: 100 mg per ml",
       "presentation": "100 ml vial · solution for injection",
-      "species": "Confirm authorised target species using the current locally approved leaflet.",
-      "purpose": "Internal and external parasite care",
-      "context": "The photographed packaging describes treatment and control of mixed internal and external parasitic infections. Similar product names can represent different formulations. Confirm the complete composition, species, route and locally authorised instructions before use.",
-      "sources": [
-        "goats",
-        "records"
-      ]
+      "species": "The supplied presentation depicts cattle and other livestock. Confirm the exact locally authorised species.",
+      "purpose": "Internal & external parasite care",
+      "context": "The product is positioned around mixed internal and external parasite-care needs in farm animals. A useful parasite-control discussion considers which parasites are relevant, the animal’s exposure and the timing of assessment, rather than assuming that a broad product description covers every infestation.",
+      "sources": []
+    },
+    "orvibion": {
+      "composition": "Betaine: 15 mg per ml; Arginine: 35 mg per ml; Citrulline: 13.5 mg per ml; Ornithine: 10 mg per ml; Other components: Request the complete current formulation; some supplied excipient quantities are unclear",
+      "presentation": "100 ml vial · solution for injection",
+      "species": "The supplied description concerns cattle, sheep and goats. Confirm authorised species for the exact presentation.",
+      "purpose": "Liver & metabolic supportive care",
+      "context": "Its product positioning connects liver support with metabolic-care discussions in farm animals. The supplied description mentions demanding metabolic periods, including ketosis-related care in cattle and pregnancy-related metabolic problems in sheep and goats. Those conditions require veterinary assessment; the product is not a replacement for diagnosis or a complete treatment plan.",
+      "sources": []
+    },
+    "diclorix": {
+      "composition": "Diclofenac sodium: 5.39 g per 100 ml; Diclofenac base equivalent: 5 g per 100 ml",
+      "presentation": "100 ml vial · solution for injection",
+      "species": "The packaging depicts farm animals; confirm the exact authorised species and local restrictions.",
+      "purpose": "Inflammation & pain-care support",
+      "context": "The product presentation focuses on veterinary inflammation and pain-care contexts. The underlying cause of pain, the animal’s species and the authorised conditions of use must guide any treatment discussion. A pain-care product does not replace investigation of the clinical problem.",
+      "sources": []
     }
   },
   "brand": "valerian"

@@ -1,0 +1,266 @@
+{
+  "nitrozan": {
+    "brand": "valerian",
+    "idx": 15,
+    "name": "NITROZAN",
+    "category": "parasite",
+    "purpose": "Internal parasite care",
+    "short": "Nitroxynil 250 mg/ml in a veterinary injectable presentation.",
+    "summary": "NITROZAN is a veterinary injectable within the Valerian parasite-care range. The available product information identifies nitroxynil at 250 mg/ml and a 100 ml vial, with a focus on internal parasites and liver-fluke care in farm animals.",
+    "context": "The product’s parasite-care positioning is most useful when considered alongside the animal’s species, grazing history and a veterinary parasite assessment. Internal parasites are not interchangeable, and identifying the relevant parasite is part of deciding which formulation belongs in a care programme.",
+    "features": [
+      "Nitroxynil is the named active ingredient.",
+      "The supplied information discusses liver-fluke care in cattle and calves.",
+      "A 100 ml injectable presentation with animal-treatment-only labelling."
+    ],
+    "composition": [
+      [
+        "Nitroxynil",
+        "250 mg per ml (25 g per 100 ml)"
+      ]
+    ],
+    "presentation": "100 ml vial · solution for injection",
+    "species": "The available information focuses on cattle and other farm animals. Confirm the exact authorised species locally.",
+    "route": "Veterinary injectable presentation; confirm the authorised route for this exact product.",
+    "dose": "No complete, reliable numerical dose is established by the supplied product information. Obtain the body-weight dose, route and course from the current product directions and treating veterinarian.",
+    "planning": [
+      "Discuss the suspected parasite and the animal’s grazing or exposure history.",
+      "Provide accurate species and body-weight information.",
+      "Confirm product-specific withdrawal requirements for food-producing animals."
+    ]
+  },
+  "phosphoval": {
+    "brand": "valerian",
+    "idx": 2,
+    "name": "PhosphoVal 20%",
+    "category": "support",
+    "purpose": "Phosphorus-based supportive care",
+    "short": "A 20% toldimphos sodium phosphotherapy injectable.",
+    "summary": "PhosphoVal 20% is presented as a veterinary phosphotherapy solution for injection. The product information identifies toldimphos sodium trihydrate at 200 mg/ml in a 100 ml vial.",
+    "context": "This presentation broadens the supportive-care side of the portfolio. The supplied description discusses metabolic and nutritional support around digestion, rumen function and productive periods. Those contexts require an assessment of the whole animal and feeding programme rather than selection by the percentage in the product name.",
+    "features": [
+      "Toldimphos sodium trihydrate is the named ingredient.",
+      "A 20% presentation with a stated concentration of 200 mg/ml.",
+      "The pack describes a veterinary injectable for supportive-care discussions."
+    ],
+    "composition": [
+      [
+        "Toldimphos sodium trihydrate",
+        "200 mg per ml"
+      ]
+    ],
+    "presentation": "100 ml vial · solution for injection",
+    "species": "Farm-animal supportive-care presentation; confirm the intended species in the authorised product directions.",
+    "route": "The pack lists IV, IM and SC administration. Route selection and technique require product-specific veterinary instruction.",
+    "dose": "The supplied information does not establish a complete numerical course. Ask the veterinarian to confirm the amount, route, frequency and duration for the exact product.",
+    "planning": [
+      "Describe the clinical and nutritional reason for considering phosphorus support.",
+      "Review the feeding programme and other supplements with the veterinary team.",
+      "Confirm the intended route and professional administration arrangements."
+    ]
+  },
+  "oxyval": {
+    "brand": "valerian",
+    "idx": 1,
+    "name": "OxyVal L.A",
+    "category": "anti",
+    "purpose": "Long-acting antibacterial care",
+    "short": "Oxytetracycline 200 mg/ml in a long-acting injectable presentation.",
+    "summary": "OxyVal L.A is a long-acting oxytetracycline veterinary presentation. The supplied product information names oxytetracycline, as dihydrate, at 200 mg/ml and identifies a 100 ml injectable vial.",
+    "context": "The product information discusses bacterial-care contexts involving the respiratory system and other farm-animal infections. The relevance of an antibacterial formulation depends on diagnosis, susceptibility where appropriate, the animal’s condition and the locally authorised product instructions.",
+    "features": [
+      "Oxytetracycline is the named antibacterial ingredient.",
+      "The supplied concentration is 200 mg/ml, as oxytetracycline dihydrate.",
+      "Long-acting presentation within the Valerian anti-infective range."
+    ],
+    "composition": [
+      [
+        "Oxytetracycline, as dihydrate",
+        "200 mg per ml"
+      ]
+    ],
+    "presentation": "100 ml vial · long-acting solution for injection",
+    "species": "The presentation concerns farm-animal antibacterial care; confirm authorised species and restrictions locally.",
+    "route": "Veterinary injection; follow the authorised route and administration precautions for this presentation.",
+    "dose": "A complete product-specific numerical course is not confirmed here. Do not transfer a dose from another oxytetracycline strength or brand; obtain the current directions.",
+    "planning": [
+      "Tell the veterinarian the affected species, signs and previous treatments.",
+      "Confirm the exact concentration and the meaning of the long-acting presentation.",
+      "Record the prescribed schedule and any required meat or milk withdrawal interval."
+    ]
+  },
+  "diphenex": {
+    "brand": "valerian",
+    "idx": 13,
+    "name": "DIPHENEX",
+    "category": "support",
+    "purpose": "Allergy-symptom supportive care",
+    "short": "Diphenhydramine hydrochloride 20 mg/ml in a veterinary injectable.",
+    "summary": "DIPHENEX is a veterinary solution for injection with an allergy-symptom care focus. The product information identifies diphenhydramine hydrochloride at 20 mg/ml and the packaging shows a 100 ml presentation.",
+    "context": "The product belongs in a veterinary discussion about the cause and severity of suspected allergic signs. An allergy-focused product description is not a diagnosis, and symptom relief should be considered alongside the underlying trigger and the animal’s overall condition.",
+    "features": [
+      "Diphenhydramine hydrochloride is the named active ingredient.",
+      "A stated strength of 20 mg/ml.",
+      "Presented within supportive care rather than the antibacterial or parasite ranges."
+    ],
+    "composition": [
+      [
+        "Diphenhydramine hydrochloride",
+        "20 mg per ml"
+      ]
+    ],
+    "presentation": "100 ml vial · solution for injection",
+    "species": "Confirm the intended farm-animal species and authorised use from the exact product directions.",
+    "route": "Veterinary injectable presentation; the route and administration instructions must be confirmed for the animal.",
+    "dose": "No complete numerical dosing schedule is established by the available information. Ask the veterinarian for the exact amount, route and timing.",
+    "planning": [
+      "Describe the signs, their onset and any suspected exposure or recent treatment.",
+      "Provide the animal’s species, weight and relevant medical history.",
+      "Confirm the treatment plan and the signs that require reassessment."
+    ]
+  },
+  "eroxval": {
+    "brand": "valerian",
+    "idx": 3,
+    "name": "EroxVal 10%",
+    "category": "anti",
+    "purpose": "Antibacterial care",
+    "short": "Enrofloxacin 100 mg/ml in a veterinary injectable presentation.",
+    "summary": "EroxVal 10% is an injectable antibacterial presentation containing enrofloxacin at 100 mg/ml. The packaging identifies a 100 ml vial for animal treatment only.",
+    "context": "The supplied description discusses susceptible bacterial infections in farm-animal care, including respiratory and udder-health contexts. These are clinical categories for professional assessment, not a statement that the product is suitable for every infection, species or production stage.",
+    "features": [
+      "Enrofloxacin is the named antibacterial ingredient.",
+      "A 10% presentation corresponding to the stated 100 mg/ml concentration.",
+      "Part of the veterinarian-led anti-infective portfolio."
+    ],
+    "composition": [
+      [
+        "Enrofloxacin",
+        "100 mg per ml"
+      ]
+    ],
+    "presentation": "100 ml vial · solution for injection",
+    "species": "Confirm authorised farm-animal species, production-stage restrictions and local requirements.",
+    "route": "Veterinary injection; confirm the exact product’s authorised route.",
+    "dose": "The supplied information does not confirm a complete numerical dose and course. Prescribing requires the current directions for this exact enrofloxacin presentation.",
+    "planning": [
+      "Discuss the suspected bacterial condition and any previous antimicrobial exposure.",
+      "Confirm species-specific restrictions and the authorised indication.",
+      "Record the prescribed course and applicable food-production withdrawal requirements."
+    ]
+  },
+  "valmectin-super": {
+    "brand": "valerian",
+    "idx": 16,
+    "name": "Valmectin Super",
+    "category": "parasite",
+    "purpose": "Internal & external parasite care",
+    "short": "Ivermectin 10 mg/ml with clorsulon 100 mg/ml.",
+    "summary": "Valmectin Super combines ivermectin and clorsulon in a veterinary injectable presentation. The available product information states 10 mg/ml ivermectin and 100 mg/ml clorsulon in a 100 ml vial.",
+    "context": "The product is positioned around mixed internal and external parasite-care needs in farm animals. A useful parasite-control discussion considers which parasites are relevant, the animal’s exposure and the timing of assessment, rather than assuming that a broad product description covers every infestation.",
+    "features": [
+      "A combination of two named antiparasitic ingredients.",
+      "The product description covers internal and external parasite-care contexts.",
+      "A 100 ml injectable format within the Valerian parasite portfolio."
+    ],
+    "composition": [
+      [
+        "Ivermectin",
+        "10 mg per ml"
+      ],
+      [
+        "Clorsulon",
+        "100 mg per ml"
+      ]
+    ],
+    "presentation": "100 ml vial · solution for injection",
+    "species": "The supplied presentation depicts cattle and other livestock. Confirm the exact locally authorised species.",
+    "route": "Veterinary injectable formulation; confirm the authorised route for this exact combination.",
+    "dose": "A complete numerical dose is not reliably established in the supplied information. The veterinarian should confirm the body-weight amount, route and course.",
+    "planning": [
+      "Identify the target parasite-care problem and the animal’s exposure history.",
+      "Confirm the combination formulation rather than relying on an ivermectin-only dose.",
+      "Check species restrictions and food-production withdrawal instructions."
+    ]
+  },
+  "orvibion": {
+    "brand": "valerian",
+    "idx": 0,
+    "name": "Orvibion",
+    "category": "support",
+    "purpose": "Liver & metabolic supportive care",
+    "short": "A betaine and amino-acid injectable with a liver-support focus.",
+    "summary": "Orvibion adds a liver-focused supportive-care presentation to the Valerian range. The visible formulation identifies betaine alongside arginine, citrulline and ornithine in a 100 ml injectable vial.",
+    "context": "Its product positioning connects liver support with metabolic-care discussions in farm animals. The supplied description mentions demanding metabolic periods, including ketosis-related care in cattle and pregnancy-related metabolic problems in sheep and goats. Those conditions require veterinary assessment; the product is not a replacement for diagnosis or a complete treatment plan.",
+    "features": [
+      "Betaine, arginine, citrulline and ornithine are named components.",
+      "The pack describes a liver-support and ammonia-regulation focus.",
+      "A 100 ml vial with a matching lavender carton."
+    ],
+    "composition": [
+      [
+        "Betaine",
+        "15 mg per ml"
+      ],
+      [
+        "Arginine",
+        "35 mg per ml"
+      ],
+      [
+        "Citrulline",
+        "13.5 mg per ml"
+      ],
+      [
+        "Ornithine",
+        "10 mg per ml"
+      ],
+      [
+        "Other components",
+        "Request the complete current formulation; some supplied excipient quantities are unclear"
+      ]
+    ],
+    "presentation": "100 ml vial · solution for injection",
+    "species": "The supplied description concerns cattle, sheep and goats. Confirm authorised species for the exact presentation.",
+    "route": "The pack lists IM, SC and slow IV administration. These are professional routes requiring exact product instructions.",
+    "dose": "No complete numerical dose is clearly specified. Obtain species- and weight-specific veterinary directions before administration.",
+    "planning": [
+      "Describe the clinical and nutritional reason for a liver-support enquiry.",
+      "Request the complete quantified formulation because some supplied details are unclear.",
+      "Confirm the administration route, amount and monitoring plan with the veterinarian."
+    ]
+  },
+  "diclorix": {
+    "brand": "valerian",
+    "idx": 14,
+    "name": "Diclorix",
+    "category": "support",
+    "purpose": "Inflammation & pain-care support",
+    "short": "A diclofenac-based veterinary anti-inflammatory injectable.",
+    "summary": "Diclorix extends the supportive-care range with a diclofenac-based solution for injection. The supplied information states 5.39 g diclofenac sodium per 100 ml, equivalent to 5 g diclofenac base, in a 100 ml vial.",
+    "context": "The product presentation focuses on veterinary inflammation and pain-care contexts. The underlying cause of pain, the animal’s species and the authorised conditions of use must guide any treatment discussion. A pain-care product does not replace investigation of the clinical problem.",
+    "features": [
+      "Diclofenac sodium is the named ingredient.",
+      "The stated quantity is 5.39 g per 100 ml, equivalent to 5 g diclofenac base.",
+      "A gold-labelled 100 ml veterinary injectable presentation."
+    ],
+    "composition": [
+      [
+        "Diclofenac sodium",
+        "5.39 g per 100 ml"
+      ],
+      [
+        "Diclofenac base equivalent",
+        "5 g per 100 ml"
+      ]
+    ],
+    "presentation": "100 ml vial · solution for injection",
+    "species": "The packaging depicts farm animals; confirm the exact authorised species and local restrictions.",
+    "route": "Veterinary injectable presentation; use only the authorised route specified for the exact product.",
+    "dose": "A complete numerical dose is not clearly established by the supplied material. The veterinarian must confirm the authorised amount, route and duration.",
+    "planning": [
+      "Describe the source, duration and severity of the animal’s signs.",
+      "Provide details of other medicines and relevant health history.",
+      "Confirm species restrictions, the precise administration plan and any withdrawal requirements."
+    ]
+  }
+}
